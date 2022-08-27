@@ -31,9 +31,9 @@
 
 ### Screenshots
 
-![Home Page](./image/design-web-site-3.png)
-![Home Page](./image/website-page2-skills-3.png)
-![Home Page](./image/website-page3-Cheat Sheet-3.png)
+![Home Page](./image/design_web_site_3.png)
+![Home Page](./image/website_page2_skills_3.png)
+![Home Page](./image/website_page3_cheat_sheet_3.png)
 
 ### Technologies
 
@@ -89,15 +89,19 @@ quality scripts locally.
 
 #### Repo configuration
 
-  - Give each member _written_ access to the repo (if it's a group project).
-  - Enable GitHub pages and put a link to your website in the repo description.
-  - Activate the GitHub Actions
-  - in the _Branches_ section of your repo settings, make sure :
-  - The repository[requires review](https://github.blog/2018-03-23-require-multiple-reviewers/)before pull requests can be merged.
-  - The `master`/`main` branch must "_Require status checks to pass before merge_"
-  - The `master`/`main` branch must "_Require required branches to be up to date before merging_"
+- Give each member _written_ access to the repo (if it's a group project).
+- Enable GitHub pages and put a link to your website in the repo description.
+- Activate the GitHub Actions
+- in the _Branches_ section of your repo settings, make sure :
+- The
+  repository[requires review](https://github.blog/2018-03-23-require-multiple-reviewers/)before
+  pull requests can be merged.
+- The `master`/`main` branch must "_Require status checks to pass before merge_"
+- The `master`/`main` branch must "_Require required branches to be up to date
+  before merging_"
 
 ## Code examples
+
 ```HTML
 <!-- NAVBAR -->
           <div class="navbar">
@@ -142,7 +146,7 @@ The project is: in progress
 ## Group Members
 
 | Name               | GitHub Links                                      |
-|--------------------|---------------------------------------------------|
+| ------------------ | ------------------------------------------------- |
 | **Verousca Ekema** | [Verousca](https://github.com/Verousca)           |
 | **Thomas Ayissi**  | [thomas-ayissi](https://github.com/thomas-ayissi) |
 

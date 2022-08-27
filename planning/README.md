@@ -31,9 +31,9 @@
 
 ### Screenshots
 
-![Home Page](../image/design-web-site-3.png)
-![Home Page](../image/website-page2-skills-3.png)
-![Home Page](../image/website-page3-Cheat Sheet-3.png)
+![Home Page](../image/design_web_site_3.png)
+![Home Page](../image/website_page2_skills_3.png)
+![Home Page](../image/website_page3_cheat_sheet_3.png)
 
 ### Technologies
 
@@ -148,7 +148,7 @@ The project is: in progress
 ## Group Members
 
 | Name               | GitHub Links                                      |
-|--------------------|---------------------------------------------------|
+| ------------------ | ------------------------------------------------- |
 | **Verousca Ekema** | [Verousca](https://github.com/Verousca)           |
 | **Thomas Ayissi**  | [thomas-ayissi](https://github.com/thomas-ayissi) |
 
