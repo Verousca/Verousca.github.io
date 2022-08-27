@@ -89,22 +89,16 @@ quality scripts locally.
 
 #### Repo configuration
 
-- Give each member _written_ access to the repo (if it's a group project).
-- Enable GitHub pages and put a link to your website in the repo description.
-- Activate the GitHub Actions
-- in the _Branches_ section of your repo settings, make sure :
-    - The repository
-      [requires review](https://github.blog/2018-03-23-require-multiple-reviewers/)
-      before pull requests can be merged.
-    - The `master`/`main` branch must "_Require status checks to pass before
-      merge_"
-    - The `master`/`main` branch must "_Require required branches to be up to date
-      before merging_"
+  - Give each member _written_ access to the repo (if it's a group project).
+  - Enable GitHub pages and put a link to your website in the repo description.
+  - Activate the GitHub Actions
+  - in the _Branches_ section of your repo settings, make sure :
+  - The repository[requires review](https://github.blog/2018-03-23-require-multiple-reviewers/)before pull requests can be merged.
+  - The `master`/`main` branch must "_Require status checks to pass before merge_"
+  - The `master`/`main` branch must "_Require required branches to be up to date before merging_"
 
 ## Code examples
-
 ```HTML
-//
 <!-- NAVBAR -->
           <div class="navbar">
               <div class="container flex">
@@ -153,5 +147,3 @@ The project is: in progress
 | **Thomas Ayissi**  | [thomas-ayissi](https://github.com/thomas-ayissi) |
 
 ## How to use
-
-
