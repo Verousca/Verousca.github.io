@@ -1,9 +1,11 @@
 # Design
 
 1. Home page
-2. Skills page
-3. Cheat Sheet page
+2. Profile page
+3. Useful Links page
+4. Contact Page
 
-![Home Page](../image/design-web-site3.png)
-![Home Page](../image/website-page2-skills3.png)
-![Home Page](../image/website-page3-cheat-sheet3.png)
+![Home Page](../image/home-page.png)
+![Profile Page](../image/profile.png)
+![Useful Links Page](../image/useful-links.png)
+![Contact Page](../image/contact-page.png)
