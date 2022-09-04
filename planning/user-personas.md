@@ -1,35 +1,35 @@
 # User Personas
 
 ```markdown
-## Jane : Recruiter
+## Kate: Recruiter
 
-- **Bio** : Jane is a recruiter for a company whose business is application
-  development and website design.
+- Bio: Kate is a recruiter for a company that develops applications and websites.
 
-- **Needs/Goals**: Jane has a constant need to discover new talent. This allows
-  her to have a stock of people she can contact to work for her company on a
-  one-off or long-term basis.
+- Needs/Objectives: Kate has a constant need to discover new talent. This allows her to have a pool of people she can contact to work for her company on a one-off or long-term basis.
 
-- **Frustrations**: Many junior developers do not publish personal pages that
-  identify their "soft skils", those human qualities that make all the
-  difference when choosing between two candidates with almost identical skills.
+- Frustrations: Many junior developers do not publish personal profile pages on their website.
 
-- **Scenario ** : Jane should be allowed to get to know Verousca and Thomas by
-  presenting both their work and giving an idea of their personalities (soft
-  skills). A section should be included that includes these "soft skills".
+- Scenario: A "profile" section on the website is needed to accommodate users such as Kate.
 
-## Mansour : Developer in training
+## Malick: Developer in training
 
-- **Bio**: Mansour is learning programming.
+- Bio: Malick is learning programming.
 
-- **Needs/Goals**: Mansour needs to better understand the world of coding and
-  development. He appreciates websites that allow him to enrich his knowledge.
+- Needs/Objectives: Malick needs to better understand the world of coding and development. He enjoys websites that provide useful links to development and programming resources.
 
-- **Frustrations**: there are many projects published on the web. But developers
-  do not explain enough what the programming languages used can be used for and
-  how to learn them easily and quickly.
+- Frustrations: Many developers do not post links to programming resources on their websites.
 
-- **Scenario**: Mansour should be able to find a section including summary
-  sheets of the languages used. These cards will serve as a reminder to learn
-  faster without drowning in resources.
+- Scenario: Malick needs to be able to find a section with links.
+
+
+## Amina: Business owner
+
+- Bio: Amina owns an online sales company.
+
+- Needs/Objectives: Amina needs contact information for developers who can set up a website.
+
+- Frustrations: Many developers do not publish their contact information on their websites.
+
+- Scenario: Amina needs to easily find a contact page on the website.
+
 ```
