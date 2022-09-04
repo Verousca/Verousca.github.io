@@ -3,23 +3,26 @@
 ```markdown
 ## Must-Haves
 
-- Jane\*\*: As a recruiter working in an agency designing applications and
-  websites, I want to be able to identify the soft skills of young developers so
-  that I can easily integrate them into my database of potentially interesting
-  profiles.
+1. Kate: As a recruiter for a development agency, I want to easily identify
+   interesting profiles. This allows me to build up a database of people who can
+   be contacted for employment by the company I work for. I need to find
+   profiles that quickly present the profile on the developers' personal
+   websites.
 
-- Mansour\*\*: As a developer in training, I want to easily find condensed cheat
-  sheets on programming languages. These cheat sheets allow me to learn
-  programming languages quickly.
+2. Malick: as a young person learning web development, I need to find useful
+   links on other developers' websites.
+
+3. Amina: I run a business. I need to easily find contact information for
+   developers who can build websites for my business.
+
+4. A home page is needed to introduce the developer to the visitor.
 
 ## Should-Haves
 
-The website should have a home page like all websites. The site should also have
-a menu and a footer because these elements are present in almost all websites.
-
 ## Could-Haves
 
-## it would be interesting to have a login area on the site. Just to practice doing it.
+- it would be interesting to have a login area on the site. Just to practice
+  doing it.
 
 ## Story Sequencing
 
