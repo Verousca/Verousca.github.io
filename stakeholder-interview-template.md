@@ -44,11 +44,11 @@
   Start your interview with one or two open-ended questions and follow up with a lot of `why?`, this gives your partner the chance to really explain themselves instead of just answering your questions. You might find that they even learn something about themselves!
 -->
 
-### Notes
+### Notes Interview
 
 <!-- Notes you took during the interview. -->
 
-### Summary
+### Summary Interview
 
 <!-- Consolidate your notes into a few sentences. Do your best to express what your partner was trying to say, not what you learned from them. -->
 
@@ -60,9 +60,9 @@
   In this follow up interview you will present to your partner a summary of your first interview. You will do your best effort to understand, rephrase, and communicate your partners needs back to them. Take this chance to listen for their feedback on how well you understand their situation. Update your notes accordingly
 -->
 
-### Notes
+### Notes Follow-Up
 
-### Summary
+### Summary Follow-Up
 
 ---
 
@@ -105,7 +105,7 @@
   How are the designs different? How does each one serve your partner differently?
 -->
 
-- [wireframe name]()
+- ...
 - ...
 
 ---
@@ -114,9 +114,9 @@
 
 <!-- Discuss your ideas with your partner. lots of `why?`. -->
 
-### Notes
+### Notes Feedback
 
-### Summary
+### Summary Feedback
 
 ---
 
@@ -140,9 +140,9 @@
   After you've finished the Plan & Design ask your partner for feedback. In a professional setting this would be the beginning of a whole new development cycle.
 -->
 
-### Notes
+### Notes Final Feedback
 
-### Summary
+### Summary Final Feedback
 
 ---
 
