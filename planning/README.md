@@ -31,10 +31,8 @@
 
 ### Screenshots
 
-![Home Page](../image/home-page.png)
-![Home Page](../image/profile.png)
-![Home Page](../image/useful-links.png)
-![Home Page](../image/contact-page.png)
+![Home Page](../image/home-page.png) ![Home Page](../image/profile.png)
+![Home Page](../image/useful-links.png) ![Home Page](../image/contact-page.png)
 
 ### Technologies
 
